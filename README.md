@@ -1,3 +1,10 @@
+# README
+
+Published Date: Sept 20, 2017
+
+With help from a friend
+
+```text
 ( (a AND b) OR (c AND d) )
 
 filter=sw(servicename,abc)&cols=servicename,ip,dns&groupby=ip
@@ -27,3 +34,4 @@ VAL = INT | STRING
 
 INT = regex('\d+')
 STRING = Word(string.alphanums)
+```
